@@ -1,2 +1,2 @@
 # Dev-Client
-A toy system for developers and clients 
+A toy platform for clients find developers for their project.
