@@ -4,6 +4,6 @@ Created by Ted Chen, Yongcheng Zhu, Eric Yan and Lianming Wu.
 
 
 Ted Chen: Developer and HomePage
-Youngcheng Zhu: Client \n
+Youngcheng Zhu: Client
 Eric: Warning and login page
 Lianming Wu: Super-user page
