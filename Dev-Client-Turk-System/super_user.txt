@@ -1,0 +1,10 @@
+{
+    "SuperUser": [
+        {
+            "Password": "password",
+            "Username:": "test123",
+            "Name": "test",
+            "Funds:": 327.6
+        }
+    ]
+}

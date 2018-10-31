@@ -1,0 +1,25 @@
+{
+    "Money": [
+        {
+            "Projects": "Test",
+            "Client": " Ted",
+            "Developer": "YC",
+            "Money_holds": 1487,
+            "Rating": "2"
+        },
+        {
+            "Projects": "Test1",
+            "Client": " Ted1",
+            "Developer": "YC1",
+            "Money_holds": 1500,
+            "Rating": "2"
+        },
+        {
+            "Projects": "Test2",
+            "Client": " Ted2",
+            "Developer": "YC2",
+            "Money_holds": 1500,
+            "Rating": "2"
+        }
+    ]
+}

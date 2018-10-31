@@ -1,0 +1,98 @@
+[
+    {
+        "Account Type:": "Client",
+        "Reason:": "1232131234123\n",
+        "Password:": "123",
+        "Email:": "123",
+        "Username:": "test",
+        "Status:": "Accepted"
+    },
+    {
+        "Account Type:": "Client",
+        "Reason:": "123123\n",
+        "Password:": "1234",
+        "Email:": "1234",
+        "Username:": "test2",
+        "Status:": "Accepted"
+    },
+    {
+        "Account Type:": "Client",
+        "Reason:": "",
+        "Password:": "12345",
+        "Email:": "12345@we",
+        "Username:": "test3",
+        "Status:": "Rejected"
+    },
+    {
+        "Account Type:": "Client",
+        "Reason:": "",
+        "Password:": "sadasf",
+        "Email:": "123@qq.com",
+        "Username:": "Lianming",
+        "Status:": "Not Decided"
+    },
+    {
+        "Account Type:": "Client",
+        "Reason:": "",
+        "Password:": "asdfsdf",
+        "Email:": "asdfasdf",
+        "Username:": "asdfas",
+        "Status:": "Not Decided"
+    },
+    {
+        "Account Type:": "Client",
+        "Reason:": "good!\n",
+        "Password:": "123",
+        "Email:": "asd312",
+        "Username:": "sampleacc",
+        "Status:": "Accepted"
+    },
+    {
+        "Account Type:": "Client",
+        "Reason:": "\n",
+        "Password:": "123",
+        "Email:": "1029",
+        "Username:": "testacc",
+        "Status:": "Accepted"
+    },
+    {
+        "Funds:": "3000",
+        "Account Type:": "Client",
+        "Reason:": "\n",
+        "Password:": "123",
+        "Username:": "helpem",
+        "Status:": "Accepted"
+    },
+    {
+        "Funds:": "3000",
+        "Account Type:": "Developer",
+        "Reason:": "asd\n",
+        "Password:": "123",
+        "Username:": "somedev",
+        "Status:": "Accepted"
+    },
+    {
+        "Funds:": "3000",
+        "Account Type:": "Developer",
+        "Reason:": "\n",
+        "Password:": "123",
+        "Username:": "help22",
+        "Status:": "Accepted"
+    },
+    {
+        "Account Type:": "Client",
+        "Username:": "ClientWu",
+        "Password:": "123",
+        "Funds:": "1500",
+        "Status:": "Accepted",
+        "Reason:": "what \n"
+    },
+    {
+        "Account Type:": "Client",
+        "Username:": "apply123",
+        "Password:": "123",
+        "Funds:": "5555",
+        "Status:": "Rejected",
+        "Reason:": "Not allowed\n"
+    }
+]

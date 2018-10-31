@@ -1,0 +1,230 @@
+{
+    "Protest": [
+        {
+            "Username": "Ted",
+            "Issue": "Protest",
+            "Account": "Client",
+            "Status": "Accepted",
+            "Reason": "Free me from the blacklist!"
+        },
+        {
+            "Username": "Ted2",
+            "Issue": "Protest",
+            "Account": "Client",
+            "Status": "Accepted",
+            "Reason": "Free me from the blacklist!"
+        },
+        {
+            "Username": "Ted3",
+            "Issue": "Protest",
+            "Account": "Client",
+            "Status": "Rejected",
+            "Reason": "Free me from the blacklist!"
+        },
+        {
+            "Username": "ted",
+            "Account": "Client",
+            "Issue": "Protest",
+            "Reason": "hoho\n",
+            "Status": "Accepted"
+        },
+        {
+            "Username": "helpem",
+            "Account": "Client",
+            "Issue": "Protest",
+            "Reason": "12345\n",
+            "Status": "Accepted"
+        }
+    ],
+    "Apply": [
+        {
+            "Reason": "good\n",
+            "Issue": "Apply",
+            "Status": "Accepted",
+            "Password:": "123",
+            "Username": "helpme",
+            "Account": "Client",
+            "Funds:": "3000"
+        },
+        {
+            "Reason": "\n",
+            "Issue": "Apply",
+            "Status": "Accepted",
+            "Password:": "123",
+            "Username": "helpem",
+            "Account": "Client",
+            "Funds:": "3000"
+        },
+        {
+            "Reason": "asd\n",
+            "Issue": "Apply",
+            "Status": "Accepted",
+            "Password:": "123",
+            "Username": "somedev",
+            "Account": "Developer",
+            "Funds:": "3000"
+        },
+        {
+            "Reason": "\n",
+            "Issue": "Apply",
+            "Status": "Accepted",
+            "Password:": "123",
+            "Username": "help22",
+            "Account": "Developer",
+            "Funds:": "3000"
+        },
+        {
+            "Issue": "Apply",
+            "Account": "Client",
+            "Username": "ClientWu",
+            "Password:": "123",
+            "Funds:": "1500",
+            "Status": "Accepted",
+            "Reason": "what \n"
+        },
+        {
+            "Issue": "Apply",
+            "Account": "Client",
+            "Username": "apply123",
+            "Password:": "123",
+            "Funds:": "5555",
+            "Status": "Rejected",
+            "Reason": "Not allowed\n"
+        }
+    ],
+    "Money": [
+        {
+            "Client_received": 950.0,
+            "Issue": "Money",
+            "Client": " ted",
+            "Rating": "2",
+            "Developer_received": 475.0,
+            "Money_holds": 1000.0,
+            "Projects": "Test",
+            "Status": "Sent",
+            "Developer": "Yong"
+        },
+        {
+            "Client_received": 1415.5,
+            "Issue": "Money",
+            "Client": " Ted2",
+            "Rating": "2",
+            "Developer_received": 9.5,
+            "Money_holds": 1490,
+            "Projects": "Test2",
+            "Status": "Sent",
+            "Developer": "YC2"
+        },
+        {
+            "Client_received": 1308.15,
+            "Issue": "Money",
+            "Client": " Ted1",
+            "Rating": "2",
+            "Developer_received": 116.85,
+            "Money_holds": 1377.0,
+            "Projects": "Test1",
+            "Status": "Sent",
+            "Developer": "YC1"
+        },
+        {
+            "Client_received": 25.65,
+            "Issue": "Money",
+            "Client": "ted",
+            "Rating": "1",
+            "Developer_received": 116.85,
+            "Money_holds": 27.0,
+            "Projects": "project_two",
+            "Status": "Sent",
+            "Developer": "Yong"
+        },
+        {
+            "Issue": "Money",
+            "Projects": "sample",
+            "Client": "ted",
+            "Developer": "Yong",
+            "Money_holds": 5.0,
+            "Rating": "2",
+            "Status": "Sent",
+            "Client_received": 4.75,
+            "Developer_received": 114.0
+        },
+        {
+            "Issue": "Money",
+            "Projects": "sample2",
+            "Client": "ted",
+            "Developer": "Yong",
+            "Money_holds": 27.0,
+            "Rating": "2",
+            "Status": "Sent",
+            "Client_received": 25.65,
+            "Developer_received": 237.5
+        }
+    ],
+    "Appeal": [
+        {
+            "Username": "WU",
+            "Issue": "Appeal",
+            "Account": "Client ",
+            "Status": "Not Decided",
+            "Reason": "I should not be warned!"
+        },
+        {
+            "Username": "Filler1",
+            "Issue": "Appeal",
+            "Account": "Client",
+            "Status": "Accepted",
+            "Reason": "I should not be warned!"
+        },
+        {
+            "Username": "Filler2",
+            "Issue": "Appeal",
+            "Account": "Client",
+            "Status": "Not Decided",
+            "Reason": "I should not be warned!"
+        },
+        {
+            "Username": "ted",
+            "Account": "Client",
+            "Issue": "Appeal",
+            "Reason": "what\n",
+            "Status": "Accepted"
+        }
+    ],
+    "Quit": [
+        {
+            "Username": "Eric",
+            "Issue": "Quit",
+            "Account": "Client",
+            "Status": "Accepted",
+            "Reason": "I am tired from this project!"
+        },
+        {
+            "Username": "Eric1",
+            "Issue": "Quit",
+            "Account": "Client",
+            "Status": "Not Decided",
+            "Reason": "I am tired from this project!"
+        },
+        {
+            "Username": "Eric2",
+            "Issue": "Quit",
+            "Account": "Client",
+            "Status": "Not Decided",
+            "Reason": "I am tired from this project!"
+        },
+        {
+            "Issue": "Quit",
+            "Account": "Client",
+            "Username": "ClientWu",
+            "Status": "Accepted",
+            "Reason": "what \n"
+        },
+        {
+            "Issue": "Quit",
+            "Account": "Client",
+            "Username": "helpem",
+            "Status": "Accepted",
+            "Reason": "aloha\n"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "Ratings_Given:": [
+        5,
+        1,
+        5,
+        4,
+        4,
+        2,
+        2
+    ],
+    "Funds:": 3228,
+    "Login_Warned:": "True",
+    "Ratings_Received:": [
+        "4",
+        "5",
+        "3"
+    ],
+    "Address:": "4fgh",
+    "Account Type:": "Client",
+    "Projects:": [
+        "project_one",
+        "project_two",
+        "project_three",
+        "project_four",
+        "test_sample",
+        "sample",
+        "sample2",
+        "myproject"
+    ],
+    "Interests:": [
+        "tag1",
+        "tag2"
+    ],
+    "Warn_Count:": -3,
+    "Telephone #:": "73gfds",
+    "Password:": "123",
+    "Email:": "f324",
+    "Username:": "ted"
+}

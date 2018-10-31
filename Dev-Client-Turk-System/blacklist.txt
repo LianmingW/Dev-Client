@@ -1,0 +1,13 @@
+[
+    {
+        "Account Type:": "Client",
+        "Username:": "eric",
+        "Password:": "zxc",
+        "Email:": "f324",
+        "Address:": "",
+        "Telephone #:": "",
+        "Ratings:": [],
+        "Projects:": [],
+        "Funds:": "$2800"
+    }
+]

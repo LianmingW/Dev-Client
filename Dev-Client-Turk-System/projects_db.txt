@@ -1,0 +1,192 @@
+{
+    "Projects": [
+        {
+            "DevRating:": 5,
+            "Cost:": 50,
+            "Bidding_Deadline:": "12/20/2017",
+            "Client:": "ted",
+            "SystemRating:": 5,
+            "Chosen_Reason:": "Cheapest Bidder",
+            "Developer:": "Yong",
+            "Delivery_Deadline:": "01/20/2018",
+            "Project_Name:": "project_one",
+            "Completed:": "Completed",
+            "Bidders:": {
+                "Yong": 50,
+                "Yong2": 100,
+                "Name2": 200
+            },
+            "OnTime:": "On time",
+            "Specification:": "Enter Specifications Here\n",
+            "ClientRating:": "5",
+            "Rate_Reason:": "Good System",
+            "Tags:": [
+                "asd",
+                "asd",
+                "asd"
+            ]
+        },
+        {
+            "DevRating:": 1,
+            "Cost:": 300,
+            "Bidding_Deadline:": "12/20/2017",
+            "Client:": "ted",
+            "SystemRating:": 1,
+            "Chosen_Reason:": "he's awesome",
+            "Developer:": "Yong",
+            "Delivery_Deadline:": "01/20/2018",
+            "Project_Name:": "project_two",
+            "Completed:": "Completed",
+            "Bidders:": {
+                "Yong": "300",
+                "Yong2": "100"
+            },
+            "OnTime:": "Late",
+            "Specification:": "elephants are found in the wild\n",
+            "ClientRating:": "4",
+            "Rate_Reason:": "The system didn't meet specs",
+            "Tags:": [
+                "12098",
+                "askdj32"
+            ]
+        },
+        {
+            "DevRating:": 5,
+            "Cost:": 200,
+            "Bidding_Deadline:": "12/20/2017",
+            "Client:": "ted",
+            "SystemRating:": 5,
+            "Chosen_Reason:": "Cheapest Bidder",
+            "Developer:": "Yong",
+            "Delivery_Deadline:": "01/20/2018",
+            "Project_Name:": "project_three",
+            "Completed:": "Completed",
+            "Bidders:": {
+                "Yong": "200"
+            },
+            "OnTime:": "On time",
+            "Specification:": "entering the random specifications\n",
+            "ClientRating:": "5",
+            "Rate_Reason:": "Good System",
+            "Tags:": [
+                "test",
+                "bidding",
+                "stuff"
+            ]
+        },
+        {
+            "DevRating:": 4,
+            "Cost:": 100,
+            "Bidding_Deadline:": "12/20/2017",
+            "Client:": "ted",
+            "SystemRating:": 4,
+            "Chosen_Reason:": "Cheapest Bidder",
+            "Developer:": "Yong",
+            "Delivery_Deadline:": "01/20/2018",
+            "Project_Name:": "project_four",
+            "Completed:": "Completed",
+            "Bidders:": {
+                "Yong": "100"
+            },
+            "OnTime:": "On time",
+            "Specification:": "Enter Specifications Here\n",
+            "ClientRating:": "4",
+            "Rate_Reason:": "Good System",
+            "Tags:": [
+                "asd",
+                "bbasd",
+                "asd"
+            ]
+        },
+        {
+            "DevRating:": 4,
+            "Cost:": 1000,
+            "Bidding_Deadline:": "12/30/2017",
+            "Client:": "ted",
+            "SystemRating:": 4,
+            "Chosen_Reason:": "Cheapest Bidder",
+            "Developer:": "Yong",
+            "Delivery_Deadline:": "01/20/2018",
+            "Project_Name:": "test_sample",
+            "Completed:": "Completed",
+            "Bidders:": {
+                "Yong": "1000"
+            },
+            "OnTime:": "On time",
+            "Specification:": "Enter Specifications Hereda sdas dasd asd as\n",
+            "ClientRating:": "5",
+            "Rate_Reason:": "Good System",
+            "Tags:": [
+                "asd213",
+                "12",
+                "3as"
+            ]
+        },
+        {
+            "DevRating:": 2,
+            "Cost:": 250,
+            "Bidding_Deadline:": "11/12/2014",
+            "Client:": "ted",
+            "SystemRating:": 2,
+            "Chosen_Reason:": "Cheapest Bidder",
+            "Developer:": "Yong",
+            "Delivery_Deadline:": "12/15/2014",
+            "Bidders:": {
+                "Yong": "250"
+            },
+            "Completed:": "Completed",
+            "Project_Name:": "sample",
+            "OnTime:": "On time",
+            "Specification:": "Enter Specifications Here\n",
+            "Rate_Reason:": "The system didn't meet specs",
+            "ClientRating:": "3",
+            "Tags:": [
+                "123"
+            ]
+        },
+        {
+            "DevRating:": 2,
+            "Cost:": 555,
+            "Bidding_Deadline:": "11/12/2017",
+            "Client:": "ted",
+            "SystemRating:": 2,
+            "Chosen_Reason:": "Cheapest Bidder",
+            "Developer:": "Yong",
+            "Delivery_Deadline:": "12/11/2017",
+            "Bidders:": {
+                "Yong": "555"
+            },
+            "Completed:": "Delivered",
+            "Project_Name:": "sample2",
+            "OnTime:": "On time",
+            "Specification:": "testing\n",
+            "Rate_Reason:": "The system didn't meet specs",
+            "ClientRating:": "None",
+            "Tags:": [
+                "123"
+            ]
+        },
+        {
+            "Project_Name:": "myproject",
+            "Bidding_Deadline:": "11/13/1992",
+            "Delivery_Deadline:": "11/15/1992",
+            "Cost:": 44,
+            "Tags:": [
+                "hi"
+            ],
+            "Client:": "ted",
+            "Developer:": "dev",
+            "Bidders:": {
+                "dev": "44"
+            },
+            "Completed:": "Delivered",
+            "OnTime:": "On time",
+            "ClientRating:": "None",
+            "DevRating:": 5,
+            "SystemRating:": 5,
+            "Specification:": "what up?\n",
+            "Chosen_Reason:": "Cheapest Bidder",
+            "Rate_Reason:": "Good System"
+        }
+    ]
+}
